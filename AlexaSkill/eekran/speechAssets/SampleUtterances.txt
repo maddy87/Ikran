@@ -1,0 +1,12 @@
+TransferIntent Transfer {amount} to Krishna
+TransferIntent Transfer {amount} to Vinay
+TransferIntent Transfer {amount} to Ash
+TransferIntent Transfer to Krishna {amount}
+TransferIntent Transfer to Vinay {amount}
+TransferIntent Transfer to Ash {amount}
+
+CheckBalanceIntent check my balance
+CheckBalanceIntent what is my balance
+CheckBalanceIntent balance please
+CheckBalanceIntent please tell me my balance
+CheckBalanceIntent give me balance information

@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "TransferIntent",
+      "slots": [
+        {
+          "name": "amount",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "CheckBalanceIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

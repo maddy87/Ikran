@@ -1,0 +1,27 @@
+{
+  "name": "repo",
+  "description": "user id details",
+  "key": "bfe69ded1db5bc6e682637c9a4c38090",
+  "maddy": {
+    "cust_id": "57f87b51360f81f104543bb6",
+    "Savings": "57f87d92360f81f104543bb8",
+    "Credit Card": "57f87e59360f81f104543bb9",
+    "Checking": "57f87f12360f81f104543bba"
+  },
+  "ash": {
+    "cust_id": "57f88032360f81f104543bbc",
+    "Savings": "57f880cf360f81f104543bbe",
+    "Credit Card": "57f880df360f81f104543bbf",
+    "Checking": "57f880c2360f81f104543bbd"
+  },
+  "users" : [
+    {
+      "name" : "Rajesh Shetty",
+      "nickname" : "maddy"
+    },
+    {
+      "name" : "Aiswarya Pramanik",
+      "nickname" : "ash"
+    }
+  ]
+}

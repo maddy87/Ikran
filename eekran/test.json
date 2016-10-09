@@ -1,0 +1,57 @@
+[{
+  "code": 201,
+  "message": "Customer created",
+  "objectCreated": {
+    "first_name": "Rajesh",
+    "last_name": "Shetty",
+    "address": {
+      "street_number": "220",
+      "street_name": "Some Street",
+      "city": "NYC",
+      "state": "NY",
+      "zip": "12345"
+    },
+    "_id": "57f87b51360f81f104543bb6"
+  }
+},
+  {
+    "code": 201,
+    "message": "Account created",
+    "objectCreated": {
+      "type": "Savings",
+      "nickname": "maddy",
+      "rewards": 1000,
+      "balance": 10000,
+      "customer_id": "57f87b51360f81f104543bb6",
+      "_id": "57f87d92360f81f104543bb8"
+    }
+  },
+  {
+    "code": 201,
+    "message": "Customer created",
+    "objectCreated": {
+      "first_name": "Ash",
+      "last_name": "Doe",
+      "address": {
+        "street_number": "110",
+        "street_name": "Some Street",
+        "city": "NYC",
+        "state": "NY",
+        "zip": "12345"
+      },
+      "_id": "57f88032360f81f104543bbc"
+    }
+  },
+  {
+    "code": 201,
+    "message": "Account created",
+    "objectCreated": {
+      "type": "Credit Card",
+      "nickname": "ash",
+      "rewards": 1000,
+      "balance": 10000,
+      "customer_id": "57f88032360f81f104543bbc",
+      "_id": "57f880df360f81f104543bbf"
+    }
+  }
+]
